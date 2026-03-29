@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Technical Pipeline
+## 🛠️ Technical Pipeline used 
 
 ### 1️⃣ Data Cleaning & Integration
 
@@ -59,4 +59,6 @@
 - **byte_to_beat.ipynb** — Full research notebook containing the end-to-end pipeline  
 - **data/** — Contains raw and processed datasets *(subject to original licensing)*  
 - **reports/** — Final 2–3 page PDF submission for the Hack4Health challenge
+
+
 
